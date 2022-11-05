@@ -55,6 +55,8 @@ while command != "quit":
             if guessed_word == random_word:
                 print("you win!!!!")
                 print("Type start to play again!!!")
+                print("Type change to change difficulty")
+                print("Type quit to end the program")
                 break
             else:
 
